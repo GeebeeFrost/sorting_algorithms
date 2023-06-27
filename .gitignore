@@ -1,2 +1,5 @@
 # Given functions
 given_functions.c
+
+# Test files
+*main.c
